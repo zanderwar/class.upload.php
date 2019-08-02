@@ -1,5 +1,5 @@
 {
-    "name": "verot/class.upload.php",
+    "name": "zanderwar/class.upload.php",
     "description": "This PHP class uploads files and manipulates images very easily.",
     "type": "library",
     "homepage":"http://www.verot.net/php_class_upload.htm",
