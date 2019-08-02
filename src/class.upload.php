@@ -25,6 +25,7 @@
 // | This script is free to use, don't abuse.                               |
 // +------------------------------------------------------------------------+
 
+namespace Verot\Upload;
 
 /**
  * Class upload
@@ -33,7 +34,7 @@
  * @license   http://opensource.org/licenses/gpl-license.php GNU Public License
  * @copyright Colin Verot
  */
-class upload {
+class Upload {
 
 
     /**
