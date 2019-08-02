@@ -1,6 +1,6 @@
 {
     "name": "zanderwar/class.upload.php",
-    "description": "This PHP class uploads files and manipulates images very easily.",
+    "description": "This PHP class uploads files and manipulates images very easily. This is a fork from verot/class.upload.php due to it's lack of release",
     "type": "library",
     "homepage":"http://www.verot.net/php_class_upload.htm",
     "keywords": ["upload", "gd"],
